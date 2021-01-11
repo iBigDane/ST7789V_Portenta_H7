@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map TSL2591
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DEBUG	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+LCD_Init		KEYWORD2	
+LCD_Clear		KEYWORD2
+
+LCD_NewImage		KEYWORD2
+LCD_DrawRectangle 	KEYWORD2
+LCD_DrawLine		KEYWORD2
+LCD_DrawCircle		KEYWORD2
+LCD_DrawString		KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+gImage_70X70	LITERAL1
+
